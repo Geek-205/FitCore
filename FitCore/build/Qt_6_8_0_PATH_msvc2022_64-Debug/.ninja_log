@@ -1,0 +1,39 @@
+# ninja log v5
+13	48	7689744011400084	FitCore/Main.qml	c86f2cbe06183eb6
+13	48	7689744011400084	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/FitCore/Main.qml	c86f2cbe06183eb6
+19	268	7689744013604184	.qt/qml_imports/appFitCore_build.cmake	4820f607253bbf3e
+19	268	7689744013604184	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/qml_imports/appFitCore_build.cmake	4820f607253bbf3e
+269	387	7689744014322259	appFitCore_autogen/timestamp	b1e66bb266c5fd5d
+269	387	7689744014322259	appFitCore_autogen/mocs_compilation.cpp	b1e66bb266c5fd5d
+269	387	7689744014322259	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/appFitCore_autogen/timestamp	b1e66bb266c5fd5d
+269	387	7689744014322259	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/appFitCore_autogen/mocs_compilation.cpp	b1e66bb266c5fd5d
+412	445	7689744015389398	meta_types/appFitCore_json_file_list.txt	7d473230bb4396b1
+412	445	7689744015389398	meta_types/appFitCore_json_file_list.txt.timestamp	7d473230bb4396b1
+412	445	7689744015389398	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/meta_types/appFitCore_json_file_list.txt	7d473230bb4396b1
+412	445	7689744015389398	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/meta_types/appFitCore_json_file_list.txt.timestamp	7d473230bb4396b1
+407	503	7689744015888068	.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	2993091e6059ef1b
+407	503	7689744015888068	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	2993091e6059ef1b
+396	504	7689744015947908	.qt/rcc/qrc_qmake_FitCore.cpp	7dd6ebf2edc40e7b
+396	504	7689744015947908	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/rcc/qrc_qmake_FitCore.cpp	7dd6ebf2edc40e7b
+445	522	7689744016147375	meta_types/qt6appfitcore_debug_metatypes.json.gen	d8cfb39be858aed9
+445	522	7689744016147375	meta_types/qt6appfitcore_debug_metatypes.json	d8cfb39be858aed9
+445	522	7689744016147375	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/meta_types/qt6appfitcore_debug_metatypes.json.gen	d8cfb39be858aed9
+445	522	7689744016147375	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/meta_types/qt6appfitcore_debug_metatypes.json	d8cfb39be858aed9
+401	528	7689744016107487	.rcc/qmlcache/appFitCore_qmlcache_loader.cpp	71dd996cb6ef837b
+401	528	7689744016107487	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.rcc/qmlcache/appFitCore_qmlcache_loader.cpp	71dd996cb6ef837b
+522	734	7689744017792972	appfitcore_qmltyperegistrations.cpp	839e39001f86baf1
+522	734	7689744017792972	FitCore/appFitCore.qmltypes	839e39001f86baf1
+522	734	7689744017792972	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/appfitcore_qmltyperegistrations.cpp	839e39001f86baf1
+522	734	7689744017792972	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/FitCore/appFitCore.qmltypes	839e39001f86baf1
+735	964	7689744020485764	.rcc/qmlcache/appFitCore_Main_qml.cpp	f0418290d87d0028
+735	964	7689744020485764	.rcc/qmlcache/appFitCore_Main_qml.cpp.aotstats	f0418290d87d0028
+735	964	7689744020485764	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.rcc/qmlcache/appFitCore_Main_qml.cpp	f0418290d87d0028
+735	964	7689744020485764	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.rcc/qmlcache/appFitCore_Main_qml.cpp.aotstats	f0418290d87d0028
+973	1049	7689744021393338	CMakeFiles/appFitCore.dir/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/rcc/qrc_qmake_FitCore.cpp.obj	20592bc4ad36d0d4
+964	1070	7689744021602784	CMakeFiles/appFitCore.dir/appFitCore_autogen/mocs_compilation.cpp.obj	8c59a492abfe89c6
+980	1091	7689744021682569	CMakeFiles/appFitCore.dir/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp.obj	1cf6e23175655faf
+978	3215	7689744042985572	CMakeFiles/appFitCore.dir/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.rcc/qmlcache/appFitCore_Main_qml.cpp.obj	991335c999a57a54
+970	3226	7689744043165089	CMakeFiles/appFitCore.dir/appfitcore_qmltyperegistrations.cpp.obj	4599146af42a2a60
+967	3260	7689744043504169	CMakeFiles/appFitCore.dir/main.cpp.obj	6f9b870f60db1708
+975	3920	7689744050106509	CMakeFiles/appFitCore.dir/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.rcc/qmlcache/appFitCore_qmlcache_loader.cpp.obj	b88167f5aa47b2b0
+3920	4275	7689744053437592	appFitCore.exe	ddca61998d7cbb67

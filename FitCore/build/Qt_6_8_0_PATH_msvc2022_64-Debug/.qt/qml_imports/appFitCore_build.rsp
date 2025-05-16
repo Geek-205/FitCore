@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Say my name/Documents/GitHub/FitCore/FitCore
+-cmake-output
+-output-file
+C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/qml_imports/appFitCore_build.cmake
+-importPath
+C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/FitCore
+-importPath
+C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug
+-importPath
+D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/qml
+-qrcFiles
+C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/rcc/qmake_FitCore.qrc
+C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/.qt/rcc/appFitCore_raw_qml_0.qrc

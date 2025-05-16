@@ -1,0 +1,105 @@
+# ninja log v5
+455	481	7690374829574822	meta_types/appFitCore_json_file_list.txt.timestamp	a4d8f97a93a309f0
+12	66	7689360729718830	FitCore/Main.qml	4e0856b10cec0eff
+12	66	7689360729718830	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/Main.qml	4e0856b10cec0eff
+16	47	7690374825236710	FitCore/Login.qml	cb77583362929bb2
+350	443	7690372728548006	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/appFitCore_autogen/timestamp	62d715be48e9b36c
+611	3002	7690366623559717	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Main_qml.cpp.obj	4a6a8e571dc8bbff
+481	585	7690366599394516	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Main_qml.cpp	60b3848fb17d97b5
+22	349	7690374828228735	.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+22	349	7690374828228735	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+481	520	7690374829574822	meta_types/qt6appfitcore_debug_metatypes.json	7a1be306b765e75
+520	754	7690374832246357	.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+350	443	7690372728548006	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/appFitCore_autogen/mocs_compilation.cpp	62d715be48e9b36c
+40	114	7690352814635279	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/loginbackend.cpp	d4d3f96125c1ed25
+16	47	7690374825236710	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/Login.qml	cb77583362929bb2
+350	443	7690372728548006	appFitCore_autogen/timestamp	62d715be48e9b36c
+350	443	7690372728548006	appFitCore_autogen/mocs_compilation.cpp	62d715be48e9b36c
+531	580	7690353011359038	.rcc/qmlcache/appFitCore_qmlcache_loader.cpp	1d7e64c27d29c234
+737	4267	7690353048247554	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_qmlcache_loader.cpp.obj	1b781e70f4e643ad
+531	580	7690353011359038	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_qmlcache_loader.cpp	1d7e64c27d29c234
+455	481	7690374829574822	meta_types/appFitCore_json_file_list.txt	a4d8f97a93a309f0
+455	481	7690374829574822	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/meta_types/appFitCore_json_file_list.txt	a4d8f97a93a309f0
+34	112	7690352814545520	FitCore/loginbackend.h	360b0d558a7d243c
+455	481	7690374829574822	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/meta_types/appFitCore_json_file_list.txt.timestamp	a4d8f97a93a309f0
+351	388	7690299396372816	.qt/rcc/qrc_qmake_FitCore.cpp	99cf00919b843c19
+351	388	7690299396372816	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_qmake_FitCore.cpp	99cf00919b843c19
+365	481	7690366597979724	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/appfitcore_qmltyperegistrations.cpp	8545ba3e95f20437
+194	2272	7690371205324216	CMakeFiles/appFitCore.dir/loginbackend.cpp.obj	d03e5fde3ddedd9e
+450	487	7690374829634653	.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+450	487	7690374829634653	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+481	520	7690374829574822	meta_types/qt6appfitcore_debug_metatypes.json.gen	7a1be306b765e75
+599	2827	7690366621684734	CMakeFiles/appFitCore.dir/appFitCore_autogen/mocs_compilation.cpp.obj	9dc4692245e51107
+605	3123	7690366624796400	CMakeFiles/appFitCore.dir/appfitcore_qmltyperegistrations.cpp.obj	59cb218ad997456
+481	520	7690374829574822	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/meta_types/qt6appfitcore_debug_metatypes.json.gen	7a1be306b765e75
+755	3002	7690374854759124	CMakeFiles/appFitCore.dir/main.cpp.obj	d48411d82c76d3dc
+520	754	7690374832246357	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+481	520	7690374829574822	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/meta_types/qt6appfitcore_debug_metatypes.json	7a1be306b765e75
+365	481	7690366597979724	appfitcore_qmltyperegistrations.cpp	8545ba3e95f20437
+365	481	7690366597979724	FitCore/appFitCore.qmltypes	8545ba3e95f20437
+365	481	7690366597979724	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/appFitCore.qmltypes	8545ba3e95f20437
+481	585	7690366599394516	.rcc/qmlcache/appFitCore_Main_qml.cpp	60b3848fb17d97b5
+481	585	7690366599394516	.rcc/qmlcache/appFitCore_Main_qml.cpp.aotstats	60b3848fb17d97b5
+520	754	7690374832246357	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+481	585	7690366599394516	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Main_qml.cpp.aotstats	60b3848fb17d97b5
+507	857	7690299401109002	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_qmake_FitCore.cpp.obj	7d194265e40e38a9
+760	1258	7690374837342618	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp.obj	1e8a4f50d16e2e95
+3002	3242	7690374856778666	appFitCore.exe	e4e58fe60074371f
+520	754	7690374832246357	.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+757	2937	7690374854110574	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.obj	234b8e161e58d6d
+34	112	7690352814545520	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/loginbackend.h	360b0d558a7d243c
+40	114	7690352814635279	FitCore/loginbackend.cpp	d4d3f96125c1ed25
+30	1871	7690355583645481	build.ninja	79f5b90334dc298
+30	1871	7690355583645481	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/cmake_install.cmake	79f5b90334dc298
+16	51	7690424771127877	FitCore/Login.qml	cb77583362929bb2
+16	51	7690424771127877	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/Login.qml	cb77583362929bb2
+21	346	7690424774050347	.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+21	346	7690424774050347	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+352	390	7690424774508837	.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+352	390	7690424774508837	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+346	468	7690424775238290	.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+346	468	7690424775238290	.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+346	468	7690424775238290	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+346	468	7690424775238290	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+471	1036	7690424780781048	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp.obj	1e8a4f50d16e2e95
+468	2687	7690424797460823	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.obj	234b8e161e58d6d
+2687	2856	7690424798832314	appFitCore.exe	e4e58fe60074371f
+51	108	7690976551996483	FitCore/Login.qml	cb77583362929bb2
+51	108	7690976551996483	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/Login.qml	cb77583362929bb2
+57	3802	7690976588903606	.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+57	3802	7690976588903606	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+3808	3877	7690976589671551	.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+3808	3877	7690976589671551	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+3802	4034	7690976591187496	.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+3802	4034	7690976591187496	.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+3802	4034	7690976591187496	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+3802	4034	7690976591187496	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+4038	4554	7690976596413517	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp.obj	1e8a4f50d16e2e95
+4035	6338	7690976614268758	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.obj	234b8e161e58d6d
+6339	6522	7690976615730372	appFitCore.exe	e4e58fe60074371f
+34	65	7690977699061362	FitCore/Login.qml	cb77583362929bb2
+34	65	7690977699061362	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/Login.qml	cb77583362929bb2
+40	370	7690977702083275	.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+40	370	7690977702083275	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+375	416	7690977702542048	.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+375	416	7690977702542048	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+370	498	7690977703319961	.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+370	498	7690977703319961	.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+370	498	7690977703319961	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+370	498	7690977703319961	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+501	1030	7690977708645722	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp.obj	1e8a4f50d16e2e95
+499	2716	7690977725550497	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.obj	234b8e161e58d6d
+2716	2873	7690977726827080	appFitCore.exe	e4e58fe60074371f
+17	55	7690991411650373	FitCore/Login.qml	cb77583362929bb2
+17	55	7690991411650373	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/FitCore/Login.qml	cb77583362929bb2
+23	383	7690991414900157	.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+23	383	7690991414900157	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/qml_imports/appFitCore_build.cmake	4553c36a66c0a025
+388	424	7690991415329014	.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+388	424	7690991415329014	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp	92c45169f3a4ca98
+383	634	7690991417378434	.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+383	634	7690991417378434	.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+383	634	7690991417378434	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp	54fc78ac28739f5c
+383	634	7690991417378434	C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.aotstats	54fc78ac28739f5c
+637	1167	7690991422677474	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qrc_appFitCore_raw_qml_0.cpp.obj	1e8a4f50d16e2e95
+634	2830	7690991439379791	CMakeFiles/appFitCore.dir/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.rcc/qmlcache/appFitCore_Login_qml.cpp.obj	234b8e161e58d6d
+2831	3061	7690991441362347	appFitCore.exe	e4e58fe60074371f

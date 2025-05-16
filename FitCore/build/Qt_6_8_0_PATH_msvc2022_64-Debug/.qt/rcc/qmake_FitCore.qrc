@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FitCore">
+    <file alias="qmldir">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/FitCore/qmldir</file>
+  </qresource>
+</RCC>
+

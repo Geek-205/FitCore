@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appFitCore_FILE C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Qt_6_8_0_PATH_msvc2022_64-Debug/appFitCore.exe)
+set(__QT_DEPLOY_TARGET_appFitCore_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appFitCore_RUNTIME_DLLS D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6Quickd.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6QmlMetad.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6QmlModelsd.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6Qmld.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6Networkd.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6OpenGLd.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6Guid.dll;D:/Qt/Qt 6.8.0/Qt/6.8.0/msvc2022_64/bin/Qt6Cored.dll)

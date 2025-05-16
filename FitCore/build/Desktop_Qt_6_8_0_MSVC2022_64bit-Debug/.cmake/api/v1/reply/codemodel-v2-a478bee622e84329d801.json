@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-205610d51e9ae1a68a6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FitCore",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-85199a965b5a01264859.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-bbc31212d62d8beee2c0.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8c1224894a5f663c5e7d.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-7e55b41e0e443bbc4c7a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-3768cb719c4774e5f318.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore-Debug-10910e3c4e9f96b7383b.json",
+					"name" : "appFitCore",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_autogen-Debug-58647ca744824d1a9e6a.json",
+					"name" : "appFitCore_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_autogen_timestamp_deps-Debug-bf8c704ca2d7a3bfdbc7.json",
+					"name" : "appFitCore_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_qmlimportscan-Debug-f9595d79022313c51b30.json",
+					"name" : "appFitCore_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_qmllint-Debug-7e05da81283f4fce89e0.json",
+					"name" : "appFitCore_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_qmllint_json-Debug-e2d77929d9d278d12d5d.json",
+					"name" : "appFitCore_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_qmllint_module-Debug-624b1a1fb9f1aef40ea9.json",
+					"name" : "appFitCore_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_qmltyperegistration-Debug-88917505611343adea84.json",
+					"name" : "appFitCore_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appFitCore_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appFitCore_tooling-Debug-4415c0cdc61712a7fba5.json",
+					"name" : "appFitCore_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appFitCore_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appFitCore_aotstats_targets-Debug-a4b7d46ad18bcc41c27f.json",
+					"name" : "module_appFitCore_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/Say my name/Documents/GitHub/FitCore/FitCore"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

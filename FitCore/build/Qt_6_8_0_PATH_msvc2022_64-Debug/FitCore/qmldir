@@ -1,0 +1,5 @@
+module FitCore
+typeinfo appFitCore.qmltypes
+prefer :/qt/qml/FitCore/
+Main 1.0 Main.qml
+
