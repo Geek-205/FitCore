@@ -4,20 +4,228 @@
             {
                 "entries": [
                     {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 543,
+                        "errorMessage": "",
+                        "functionName": "flags",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 97,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 184,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "onEntered",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "onExited",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "Cannot load property border from (component in C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/Login.qml)::background with type QQuickItem.",
+                        "functionName": "onActiveFocusChanged",
+                        "line": 128
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "echoMode",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 51,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot load property border from (component in C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/Login.qml)::background with type QQuickItem.",
+                        "functionName": "onActiveFocusChanged",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 40,
+                        "durationMicroseconds": 734,
+                        "errorMessage": "Cannot access value for name loginbackend",
+                        "functionName": "onClicked",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 192
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 188
+                    },
+                    {
                         "codegenSuccessfull": false,
                         "column": 17,
-                        "durationMicroseconds": 158,
+                        "durationMicroseconds": 80,
                         "errorMessage": "Cannot access value for name loginbackend",
                         "functionName": "target",
-                        "line": 14
+                        "line": 206
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 9,
-                        "durationMicroseconds": 237,
+                        "durationMicroseconds": 169,
                         "errorMessage": "Type QObject does not have a property visible for writing",
                         "functionName": "onLoginSuccess",
-                        "line": 16
+                        "line": 208
                     },
                     {
                         "codegenSuccessfull": false,
@@ -25,39 +233,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "onLoginFailed",
-                        "line": 32
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 23,
-                        "durationMicroseconds": 178,
-                        "errorMessage": "",
-                        "functionName": "fill",
-                        "line": 36
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 31,
-                        "durationMicroseconds": 81,
-                        "errorMessage": "",
-                        "functionName": "centerIn",
-                        "line": 40
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 27,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Cannot resolve property type  for binding on echoMode.",
-                        "functionName": "echoMode",
-                        "line": 52
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 28,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
-                        "functionName": "onClicked",
-                        "line": 59
+                        "line": 220
                     }
                 ],
                 "filepath": "C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/Login.qml"
