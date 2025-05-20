@@ -3,7 +3,9 @@ import QtQuick.Controls
 import QtQuick.Layouts
 import QtQuick.Window
 import QtQuick.Controls.Basic
-ApplicationWindow {
+
+
+Window {
     id: loginWindow
     maximumHeight: 200
     maximumWidth: 500
@@ -29,9 +31,8 @@ ApplicationWindow {
                 Layout.fillHeight: true
                 color: "#2D2D2D"
 
-                ColumnLayout {
+                Item {
                     anchors.fill: parent
-                    spacing: 0
 
                     // Кастомная системная рамка
                     Rectangle {
@@ -39,8 +40,9 @@ ApplicationWindow {
                         height: 25
                         width: parent.width
                         color: "#2D2D2D"
-                        Layout.alignment: Qt.AlignTop
-                        Layout.fillWidth: true
+                        anchors.top: parent.top
+                        anchors.left: parent.left
+                        anchors.right: parent.right
 
                         RowLayout {
                             anchors.fill: parent
@@ -59,8 +61,8 @@ ApplicationWindow {
                             // Кнопка "Свернуть"
                             MouseArea {
                                 id: minimizeArea
-                                width: 25
-                                height: 25
+                                Layout.preferredWidth: 25
+                                Layout.preferredHeight: 25
                                 onClicked: loginWindow.showMinimized()
                                 hoverEnabled: true
                                 onEntered: cursorShape = Qt.PointingHandCursor
@@ -78,8 +80,8 @@ ApplicationWindow {
                             // Кнопка "Закрыть"
                             MouseArea {
                                 id: closeArea
-                                width: 25
-                                height: 25
+                                Layout.preferredWidth: 25
+                                Layout.preferredHeight: 25
                                 onClicked: loginWindow.close()
                                 hoverEnabled: true
                                 onEntered: cursorShape = Qt.PointingHandCursor
@@ -99,8 +101,10 @@ ApplicationWindow {
 
                     // Форма логина
                     Column {
+                        id: loginForm
                         anchors.centerIn: parent
-                        spacing: 10 // 20
+                        anchors.topMargin: 25  // чтобы не залезло на titleBar
+                        spacing: 10
 
                         Text {
                             text: "FitCore"
@@ -112,12 +116,14 @@ ApplicationWindow {
                         TextField {
                             id: usernameField
                             placeholderText: "Username"
+                            placeholderTextColor: "#787878"
                             width: 250
                             height: 30
                             color: "#2D2D2D"
                             font.pixelSize: 16
 
                             background: Rectangle {
+                                id: bgusername
                                 color: "#FFFFFF"
                                 radius: 3
                                 border.color: "#4E4E4E"
@@ -127,9 +133,9 @@ ApplicationWindow {
                             focus: true
                             onActiveFocusChanged: {
                                 if (activeFocus) {
-                                    background.border.color = "#FFFFFF"
+                                    bgusername.border.color = "#FFFFFF"
                                 } else {
-                                    background.border.color = "#888"
+                                    bgusername.border.color = "#888"
                                 }
                             }
                         }
@@ -137,6 +143,7 @@ ApplicationWindow {
                         TextField {
                             id: passwordField
                             placeholderText: "Password"
+                            placeholderTextColor: "#787878"
                             echoMode: TextInput.Password
                             width: 250
                             height: 30
@@ -144,6 +151,7 @@ ApplicationWindow {
                             font.pixelSize: 16
 
                             background: Rectangle {
+                                id: bgpassword
                                 color: "#FFFFFF"
                                 radius: 3
                                 border.color: "#4E4E4E"
@@ -153,9 +161,9 @@ ApplicationWindow {
                             focus: true
                             onActiveFocusChanged: {
                                 if (activeFocus) {
-                                    background.border.color = "#FFFFFF"
+                                    bgpassword.border.color = "#FFFFFF"
                                 } else {
-                                    background.border.color = "#888"
+                                    bgpassword.border.color = "#888"
                                 }
                             }
                         }
