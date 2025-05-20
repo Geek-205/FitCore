@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="images/LogoLogin.png">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/images/LogoLogin.png</file>
-    <file alias="images/x.png">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/images/x.png</file>
-    <file alias="images/-.png">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/images/-.png</file>
-  </qresource>
-</RCC>
-

@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/FitCore/">
-    <file alias="Main.qml">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/Main.qml</file>
-    <file alias="Login.qml">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/Login.qml</file>
-    <file alias="resources.qrc">C:/Users/Say my name/Documents/GitHub/FitCore/FitCore/resources.qrc</file>
-  </qresource>
-</RCC>
-
