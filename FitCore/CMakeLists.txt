@@ -38,8 +38,9 @@ qt_add_qml_module(appFitCore
         Login.qml
 
     SOURCES
-        loginbackend.h
-        loginbackend.cpp
+        loginbackend.h          loginbackend.cpp
+        accessmanager.h         accessmanager.cpp
+        usersession.h           usersession.cpp
 
     RESOURCES
         resources.qrc

@@ -1,4 +1,6 @@
 #include "loginbackend.h"
+#include "usersession.h"
+
 #include <QQmlContext>
 
 #include <QGuiApplication>
@@ -24,8 +26,11 @@ int main(int argc, char *argv[]) {
         qDebug() << "Connected to Database!";
     }
 
-    loginbackend loginbackend;
+    UserSession userSession;
+    loginbackend loginbackend(&userSession);
+
     engine.rootContext()->setContextProperty("loginbackend", &loginbackend);
+    engine.rootContext()->setContextProperty("userSession", &userSession);
 
     engine.loadFromModule("FitCore", "Login");
 
