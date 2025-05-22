@@ -1,10 +1,12 @@
 #include "loginbackend.h"
+
 #include <QSqlDatabase>
 #include <QSqlQuery>
 #include <QSqlError>
 #include <QVariant>
 
-loginbackend::loginbackend(QObject *parent) : QObject(parent) {}
+loginbackend::loginbackend(UserSession* userSession, QObject *parent)
+    : QObject(parent), m_userSession(userSession) {}
 
 void loginbackend::verifyCredentials(const QString &username, const QString &password_hash) {
 
@@ -15,14 +17,21 @@ void loginbackend::verifyCredentials(const QString &username, const QString &pas
     }
 
     QSqlQuery query;
-    query.prepare("SELECT COUNT(*) FROM SystemUsers WHERE username = :username AND password_hash = :password");
+    query.prepare(R"(
+        SELECT R.role_name
+        FROM SystemUsers U
+        JOIN UserRoles R ON U.role_id = R.role_id
+        WHERE U.username = :username AND U.password_hash = :password
+    )");
+
     query.bindValue(":username", username);
     query.bindValue(":password", password_hash);
 
-    if (query.exec() && query.next() && query.value(0).toInt() > 0) {
-        emit loginSuccess();
-    }
-    else {
+    if (query.exec() && query.next()) {
+        QString role = query.value(0).toString();  // ← получаем role_name
+        m_userSession->setRole(role);              // ← устанавливаем в сессию
+        emit loginSuccess();                       // ← сигнал об успехе
+    } else {
         emit loginFailed("Invalid credentials");
     }
 

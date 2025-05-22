@@ -38,8 +38,9 @@ qt_add_qml_module(appFitCore
         Login.qml
 
     SOURCES
-        loginbackend.h
-        loginbackend.cpp
+        loginbackend.h          loginbackend.cpp
+        accessmanager.h         accessmanager.cpp
+        usersession.h           usersession.cpp
 
     RESOURCES
         resources.qrc
@@ -48,8 +49,6 @@ qt_add_qml_module(appFitCore
 qt_add_resources(appFitCore "resources"
     PREFIX "/"
     FILES images/LogoLogin.png
-    FILES images/x.png
-    FILES images/-.png
 )
 
 # Свойства приложения (для Windows/macOS)
