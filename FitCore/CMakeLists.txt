@@ -49,8 +49,6 @@ qt_add_qml_module(appFitCore
 qt_add_resources(appFitCore "resources"
     PREFIX "/"
     FILES images/LogoLogin.png
-    FILES images/x.png
-    FILES images/-.png
 )
 
 # Свойства приложения (для Windows/macOS)

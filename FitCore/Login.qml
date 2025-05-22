@@ -38,7 +38,7 @@ Window {
                     Rectangle {
                         id: titleBar
                         height: 25
-                        width: parent.width
+                        width: 25
                         color: "#2D2D2D"
                         anchors.top: parent.top
                         anchors.left: parent.left
@@ -59,41 +59,41 @@ Window {
                             }
 
                             // Кнопка "Свернуть"
-                            MouseArea {
-                                id: minimizeArea
+                            Button {
+                                id: minimizeButton
                                 Layout.preferredWidth: 25
                                 Layout.preferredHeight: 25
-                                onClicked: loginWindow.showMinimized()
-                                hoverEnabled: true
-                                onEntered: cursorShape = Qt.PointingHandCursor
-                                onExited: cursorShape = Qt.ArrowCursor
-
-                                Image {
-                                    source: "qrc:/images/-.png"
-                                    anchors.centerIn: parent
-                                    width: 20
-                                    height: 20
-                                    fillMode: Image.PreserveAspectFit
+                                background: Rectangle {
+                                    color: minimizeButton.hovered ? "#3A3A3A" : "transparent"
                                 }
+                                contentItem: Text {
+                                    text: "─"
+                                    color: "white"
+                                    font.pixelSize: 16
+                                    font.bold: true
+                                    horizontalAlignment: Text.AlignHCenter
+                                    verticalAlignment: Text.AlignVCenter
+                                }
+                                onClicked: loginWindow.showMinimized()
                             }
 
                             // Кнопка "Закрыть"
-                            MouseArea {
-                                id: closeArea
+                            Button {
+                                id: closeButton
                                 Layout.preferredWidth: 25
                                 Layout.preferredHeight: 25
-                                onClicked: loginWindow.close()
-                                hoverEnabled: true
-                                onEntered: cursorShape = Qt.PointingHandCursor
-                                onExited: cursorShape = Qt.ArrowCursor
-
-                                Image {
-                                    source: "qrc:/images/x.png"
-                                    anchors.centerIn: parent
-                                    width: 20
-                                    height: 20
-                                    fillMode: Image.PreserveAspectFit
+                                background: Rectangle {
+                                    color: closeButton.hovered ? "white" : "transparent"
                                 }
+                                contentItem: Text {
+                                    text: "✕"
+                                    color: closeButton.hovered ? "#2D2D2D" : "white"
+                                    font.pixelSize: 18
+                                    font.bold: true
+                                    horizontalAlignment: Text.AlignHCenter
+                                    verticalAlignment: Text.AlignVCenter
+                                }
+                                onClicked: loginWindow.close()
                             }
                         }
                     }
@@ -171,8 +171,10 @@ Window {
                         Button {
                             text: "LOGIN"
                             width: 250
+                            height: 40
                             font.pixelSize: 14
                             font.bold: true
+                            background: Rectangle { color: "#3A3A3A" }
                             onClicked: {
                                 if (usernameField.text === "" || passwordField.text === "") {
                                     console.log("Please enter both username and password");
