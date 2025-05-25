@@ -210,14 +210,8 @@ Window {
 
         function onLoginSuccess() {
             console.log("Login successful");
-            var component = Qt.createComponent("Main.qml");
-            if (component.status === Component.Ready) {
-                var window = component.createObject(null);
-                window.visible = true;
-            } else {
-                console.log("Failed to load Main.qml:", component.errorString());
-            }
-            loginWindow.close();
+            loginbackend.requestMainWindow(); // 👈 новый метод
+            loginWindow.close(); // Закрываем окно логина
         }
 
         function onLoginFailed(reason) {
