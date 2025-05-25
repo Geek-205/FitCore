@@ -31,6 +31,7 @@ void loginbackend::verifyCredentials(const QString &username, const QString &pas
         QString role = query.value(0).toString();  // ← получаем role_name
         m_userSession->setRole(role);              // ← устанавливаем в сессию
         emit loginSuccess();                       // ← сигнал об успехе
+        emit requestMainWindow();
     } else {
         emit loginFailed("Invalid credentials");
     }

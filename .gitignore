@@ -55,3 +55,6 @@ compile_commands.json
 
 # Игнорирование папки
 build/
+
+# Игнорировать внутреннюю .git в сторонней библиотеке
+external/qwindowkit/.git

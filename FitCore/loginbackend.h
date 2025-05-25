@@ -17,6 +17,7 @@ public:
 signals:
     void loginSuccess();
     void loginFailed(const QString &reason);
+    void requestMainWindow();
 
 private:
     UserSession* m_userSession;

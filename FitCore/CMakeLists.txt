@@ -37,6 +37,7 @@ qt_add_qml_module(appFitCore
         Main.qml
         Login.qml
 
+
     SOURCES
         loginbackend.h          loginbackend.cpp
         accessmanager.h         accessmanager.cpp
@@ -44,11 +45,16 @@ qt_add_qml_module(appFitCore
 
     RESOURCES
         resources.qrc
+
+    SOURCES
+        nativeeventfilter.h
 )
 
 qt_add_resources(appFitCore "resources"
     PREFIX "/"
-    FILES images/LogoLogin.png
+    FILES
+    Main.qml
+    images/LogoLogin.png
 )
 
 # Свойства приложения (для Windows/macOS)
